@@ -9,11 +9,12 @@ Lilly Mena is a full time student at ASU and has a career background in PPC (Pay
 Outside of her career as project manager at a digital marketing company, she has spent her working life enhacing communication across parties, advocating for legislation, enhancing budget efficiency and organizing events.
 
 After the completion of her degree she hopes to take her skills to the more technical side of digital marketing, marrying the two into one! Her passions include:
--programming
--crocheting
--hiking 
--general tomfoolery :smirk:
+- programming
+- crocheting
+- hiking 
+- general tomfoolery :smirk:
 
 
 [Codepen Profile](https://codepen.io/hashTableSlasher)
+
 [Github](https://github.com/hashTableSlasher)
