@@ -1,4 +1,4 @@
-# hashTableSlaher
+# hashTableSlasher
 
 ![photo of the lady in question](![face-707x1024](https://github.com/user-attachments/assets/fdc35b00-f7d0-4db9-b2dd-d420881293f2)
 )
